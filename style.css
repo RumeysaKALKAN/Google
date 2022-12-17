@@ -127,7 +127,7 @@ a:hover {
 div {
   display: block;
 }
-#btn1 {
+#buton1 {
   background-color: #f8f9fa;
   border: #f8f9fa;
   height: 36px;
@@ -138,7 +138,7 @@ div {
   cursor: pointer;
 }
 
-#btn2 {
+#buton2 {
   background-color: #f8f9fa;
   border: 1px solid #f8f9fa;
   height: 36px;
